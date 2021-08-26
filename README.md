@@ -36,4 +36,4 @@ a csv will be output for each exemplar scene along with the image features calcu
 Example usage:
 
 	python isosceles_mp.py --wd /home/some_user --list /home/some_user/some_exemplar_list.txt 
-	--dst /mnt/GATES/UserDirs/some_user/some_project_exemplars --fn some_project --n_proc 12
+	--dst /home/some_user/some_project_exemplars --fn some_project --n_proc 12
